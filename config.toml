@@ -10,13 +10,7 @@ preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 
 [params]
-  slogan = "A fast &amp; secure theme"
-  description = "Describe your website" # meta description
-  author = "Göran Svensson"
-  authorLink = "https://appernetic.io/"
-  bio = [
-    "Göran is an avid blogger and the founder of <a href='https://appernetic.io/'>Appernetic.io</a>. This is the author bio shown after posts."
-  ]
+  description = "Describe your website"
   copyright = [
     "&copy; 2018 Göran Svensson",
     "Nederburg Hugo Theme by [Appernetic](https://appernetic.io).",
@@ -36,7 +30,7 @@ paginate = 5 #frontpage pagination
      # - send a dummy email yourself to confirm your account
      # - click the confirm link in the email from www.formspree.io
      # - you're done. Happy mailing!
-  email = "goran@molnsys.com"
+  email = "isu@bren.ucsb.edu"
 
   # Nav links in the side bar
   [[menu.main]]
@@ -45,7 +39,7 @@ paginate = 5 #frontpage pagination
   weight = 1
 
   [[menu.main]]
-  name = "About"
+  name = "About Me"
   url = "about/"
   weight = 2
 
@@ -55,13 +49,7 @@ paginate = 5 #frontpage pagination
   weight = 3
 
   [params.social]
-  facebook      = "full profile url in facebook"
-  googleplus    = "full profile url in googleplus"
-  email         = "email@example.com"
-  twitter       = "full profile url in twitter"
-  linkedin      = "full profile url in linkedin"
-  stackoverflow = "full profile url in stackoverflow"
-  instagram     = "full profile url in instagram"
-  github        = "full profile url in github"
-  pinterest     = "full profile url in pinterest"
+  twitter       = "https://twitter.com/iwen_su"
+  linkedin      = "https://www.linkedin.com/in/iwensu/"
+  github        = "https://github.com/iwensu0313"
   rss           = true

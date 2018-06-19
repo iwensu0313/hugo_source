@@ -1,32 +1,40 @@
 +++
+title = "When I Attempted Infographics"
 draft = false
-image = ""
+image = "img/portfolio/bluefin.jpg"
 showonlyimage = false
-date = "2016-11-05T19:50:47+05:30"
-title = "A post without an Image"
-categories = [ "code" ]
-weight = 4
+categories = [ "Aquaculture"]
+weight = 1
 +++
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+Once upon a time between 2015 and 2016, I organized an informal San Diego meetup group among my immediate contacts for "young ocean conservation & science professionals" (wow what a mouthful) and I made these wonderful AMATEUR infographics. Really I just wanted to drink beer and talk about the ocean.
+
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
+I have to shield my eyes as I'm uploading these.
 
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+### Infographic 1
+![](/img/portfolio/infographic1.jpg)
+*Summarizing the main points of Marine Cage Culture and the Environment, Price and Morris 2013.*
 
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
+<br>
 
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+### Infographic 2
+![](/img/portfolio/infographic2.jpg)
+*Outline of criteria NOAA uses for* [*MPA site selection.*](https://nmssanctuaries.blob.core.windows.net/sanctuaries-prod/media/archive/management/pdfs/overview_mod1_curr2.pdf).
 
-## Header Level 2
+<br>
 
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
+What am I? Pretending to be a marine-scientist-know-it-all over here?? Sometimes I don't understand the things I do.
 
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
+<br>
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
+### Infographic 3
+![](/img/portfolio/infographic3.jpg)
+*Sources: National Audubon Society, La Jolla Light, NBC San Diego, and Voice of San Diego.*
 
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+I can't handle this. 
+
+The first one I was quite proud of as I think it does give one a quick rundown of where aquaculture research stood. But then I just started getting embarrased. How much time did I have on my hands? I mean, I was working at CDFW and Hubbs Research Institute, and volunteering at WildCoast and as a sci-diver with SDSU folks. Good thing I love to drive myself into the ground with things to do.
+
+No time for infographics, anymore! On to [Shiny Apps](https://shiny.rstudio.com/gallery/)!

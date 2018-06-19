@@ -1,32 +1,16 @@
 +++
-image = "img/portfolio/bridge1.jpg"
-showonlyimage = false
-date = "2016-11-05T19:44:32+05:30"
-title = "Another Awesome Post"
-categories = [ "travel" ]
+title = "Ocean Health Index"
 draft = false
-weight = 2
+image = "img/portfolio/lostatsea.jpg"
+showonlyimage = false
+categories = [ "DataScience"]
+weight = 1
+description = "Individual meta description for this post"
 +++
 
-Fifth abundantly made Give sixth hath. Cattle creature i be don't them.
+I have immersed myself in the data science community at the National Center for Ecological Analysis and Synthesis (NCEAS) in downtown Santa Barbara. 2018 marks the year I helped the Ocean Health Index calculate their annual global assessments. 
+
+[**Global Fellows Website**](https://ohi-science.github.io/globalfellows)
 <!--more-->
 
-Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. Separated they live in Bookmarksgrove right at the coast of the Semantics, a large language ocean.
-
-A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
-
-1. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-2. Aliquam tincidunt mauris eu risus.
-
-> The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-## Header Level 2
-
-Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.
-
-The Big Oxmox advised her not to do so, because there were thousands of bad Commas, wild Question Marks and devious Semikoli, but the Little Blind Text didn't listen. She packed her seven versalia, put her initial into the belt and made herself on the way.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-
-When she reached the first hills of the Italic Mountains, she had a last view back on the skyline of her hometown Bookmarksgrove, the headline of Alphabet Village and the subline of her own road, the Line Lane. Pityful a rethoric question ran over her cheek, then  
+Over the last six months, I have been trained as an Ocean Health Index (OHI) Global Fellow by two wonderful, marine data science rockstars.
