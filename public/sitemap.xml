@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://iwensu0313.github.io/post/work1/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iwensu0313.github.io/post/work3/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iwensu0313.github.io/post/work4/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iwensu0313.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iwensu0313.github.io/categories/aquaculture/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://iwensu0313.github.io/post/work2/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iwensu0313.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://iwensu0313.github.io/categories/datascience/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://iwensu0313.github.io/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://iwensu0313.github.io/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://iwensu0313.github.io/post/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://iwensu0313.github.io/categories/snaps/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://iwensu0313.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
